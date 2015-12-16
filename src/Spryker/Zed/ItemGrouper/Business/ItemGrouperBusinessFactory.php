@@ -13,7 +13,7 @@ use Spryker\Zed\ItemGrouper\ItemGrouperConfig;
 /**
  * @method ItemGrouperConfig getConfig()
  */
-class ItemGrouperDependencyContainer extends AbstractBusinessFactory
+class ItemGrouperBusinessFactory extends AbstractBusinessFactory
 {
 
     /**
